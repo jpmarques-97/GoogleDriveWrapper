@@ -1,0 +1,4 @@
+dist/*
+GoogleDriveWrapper.egg-info/*
+GoogleDrive/__pycache__
+GoogleDrive/.credentials
