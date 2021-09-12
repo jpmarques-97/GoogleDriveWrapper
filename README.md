@@ -43,12 +43,6 @@ if you dont have docker on your computer, you can install with the followings co
 
 ---
 
-## References
- - [Flask Quickstart](https://flask.palletsprojects.com/en/2.0.x/quickstart/) documentation
- - [Docker](https://docs.docker.com/get-started/) documentation
-
-[Back To The Top](#read-me)
-
 ---
 
 ## License
@@ -83,5 +77,3 @@ SOFTWARE.
 - GitHub -  [@jpmarques-97](https://github.com/jpmarques-97/)
 
 [Back To The Top](#read-me)
-
-
